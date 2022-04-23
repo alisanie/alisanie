@@ -8,12 +8,11 @@ I'm a software engineer and full stack web developer at Kayotech. Working with L
 
 * 🌍  I'm based in Tehran
 * 🖥️  See my portfolio at [MyProfile](http://alisaniefar.com)
-* ✉️  You can contact me at [alisaniefar@gmail.com](mailto:alisaniefar@gmail.com)
 * 🚀  I'm currently working on [Javane Event](http://event.javane.vc)
 * 🤝  I'm open to collaborating on Laravel,php and vue
 
-<a href="https://www.twitter.com/alisnie" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/alisnie?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/alisniefar" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/alisniefar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
@@ -33,7 +32,7 @@ src="https://img.shields.io/twitter/follow/alisnie?logo=twitter&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/alisanie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ali-saniefar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/1193118/alisanie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alisnie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/alisanie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ali-saniefar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/1193118/alisanie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alisniefar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
