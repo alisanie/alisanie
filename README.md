@@ -6,8 +6,7 @@ Full Stack Web Developer
 
 I'm a software engineer and full stack web developer at Kayotech. Working with Laravel, Tailwind CSS and Vue.js . You can find me easily on twitter.
 
-* 🌍  I'm based in Tehran
-* 🖥️  See my portfolio at [MyProfile](http://alisaniefar.com)
+* 🖥️  See my portfolio at [alisaniefar.com](http://alisaniefar.com)
 * 🚀  I'm currently working on [Javane Event](http://event.javane.vc)
 * 🤝  I'm open to collaborating on Laravel,php and vue
 
