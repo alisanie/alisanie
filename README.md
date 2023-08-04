@@ -4,7 +4,7 @@ Hi 👋 My name is Ali Asghar Saniefar
 Full Stack Web Developer
 ------------------------
 
-I'm a software engineer and full stack web developer at Kayotech. Working with Laravel, Tailwind CSS and Vue.js . You can find me easily on twitter.
+I am a software engineer and full-stack web developer at [kayotech](https://www.kayotech.net). I specialize in utilizing Laravel, Tailwind CSS and Vue.js.
 
 * 🖥️  See my portfolio at [alisaniefar.com](http://alisaniefar.com)
 * 🚀  I'm currently working on [Javane Event](http://event.javane.vc)
