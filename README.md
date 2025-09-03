@@ -6,8 +6,8 @@ Full Stack Web Developer
 
 I am a software engineer and full-stack web developer at [kayotech](https://www.kayotech.net). I specialize in utilizing Laravel, Tailwind CSS and Vue.js.
 
-* 🖥️  See my portfolio at [alisaniefar.com](http://alisaniefar.com)
-* 🚀  I'm currently working on [Javane Event](http://event.javane.vc)
+* 🖥️  See my portfolio at [alisaniefar.me](http://alisaniefar.me)
+* 🚀  I'm currently working on [Tara RMS](http://rms.tara360.ir)
 * 🤝  I'm open to collaborating on Laravel,php and vue
 
 <a href="https://www.twitter.com/alisanie" target="_blank" rel="noreferrer"><img
